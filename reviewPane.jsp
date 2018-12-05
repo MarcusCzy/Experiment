@@ -20,7 +20,7 @@
                 messages = "无信息";
             String s = name + "#" + title + "#" + messages;
             leaveWord(s);
-            out.print("您的信息已经提交！");
+            out.print("您的信息已提交！");
           %>
         <a href = "lookReview.jsp">返回书评页面
       </body></HTML>
